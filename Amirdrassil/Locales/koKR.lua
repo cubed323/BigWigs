@@ -1,10 +1,10 @@
-local L = BigWigs:NewBossLocale("Gnarlroot", "koKR")
+local L = BigWigs:NewBossLocale("옹이뿌리", "koKR")
 if not L then return end
 if L then
 	--L.tortured_scream = "Scream"
 end
 
-L = BigWigs:NewBossLocale("Igira the Cruel", "koKR")
+L = BigWigs:NewBossLocale("잔혹한 이기라", "koKR")
 if L then
 	--L.blistering_spear = "Spears"
 	--L.blistering_spear_single = "Spear"
@@ -16,7 +16,7 @@ if L then
 	--L.heart_stopper_single = "Heal Absorb"
 end
 
-L = BigWigs:NewBossLocale("Volcoross", "koKR")
+L = BigWigs:NewBossLocale("볼코로스", "koKR")
 if L then
 	--L.custom_off_all_scorchtail_crash = "Show All Casts"
 	--L.custom_off_all_scorchtail_crash_desc = "Show timers and messages for all Scorchtail Crash casts instead of just for your side."
@@ -29,7 +29,7 @@ if L then
 	--L.coiling_flames_single = "Flames"
 end
 
-L = BigWigs:NewBossLocale("Council of Dreams", "koKR")
+L = BigWigs:NewBossLocale("꿈의 의회회", "koKR")
 if L then
 	--L.agonizing_claws_debuff = "{421022} (Debuff)"
 
@@ -44,7 +44,7 @@ if L then
 	--L.polymorph_bomb_single = "Duck"
 end
 
-L = BigWigs:NewBossLocale("Larodar, Keeper of the Flame", "koKR")
+L = BigWigs:NewBossLocale("불꽃지기 라로다르", "koKR")
 if L then
 	--L.custom_on_repeating_yell_smoldering_suffocation = "Repeating Suffocation Health Yell"
 	--L.custom_on_repeating_yell_smoldering_suffocation_desc = "Repeating yell messages for Smoldering Suffocation to let others know when you are below 75% health."
@@ -57,7 +57,7 @@ if L then
 	--L.falling_embers = "Soaks"
 end
 
-L = BigWigs:NewBossLocale("Nymue, Weaver of the Cycle", "koKR")
+L = BigWigs:NewBossLocale("순환의 방직공 니무에", "koKR")
 if L then
 	--L.mythic_add_death = "%s Killed"
 
@@ -68,13 +68,13 @@ if L then
 	--L.threads = "Threads" -- From the spell description of Impending Loom (429615) "threads of energy"
 end
 
-L = BigWigs:NewBossLocale("Smolderon", "koKR")
+L = BigWigs:NewBossLocale("스몰데론", "koKR")
 if L then
 	--L.brand_of_damnation = "Tank Soak"
 	--L.lava_geysers = "Geysers"
 end
 
-L = BigWigs:NewBossLocale("Tindral Sageswift, Seer of the Flame", "koKR")
+L = BigWigs:NewBossLocale("화염의 선견자 틴드랄 세이지스위프트", "koKR")
 if L then
 	--L.seed_soaked = "Seed soaked"
 	--L.all_seeds_soaked = "Seeds done!"
@@ -89,7 +89,7 @@ if L then
 	--L.flare_bomb = "Feathers"
 end
 
-L = BigWigs:NewBossLocale("Fyrakk the Blazing", "koKR")
+L = BigWigs:NewBossLocale("광염의 피락", "koKR")
 if L then
 	L.spirits_trigger = "칼도레이의 영혼"
 
